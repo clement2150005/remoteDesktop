@@ -10,8 +10,6 @@ file(REMOVE_RECURSE
   "CMakeFiles/Client.dir/src/main.cpp.o.d"
   "Client"
   "Client.pdb"
-  "Client_autogen/mocs_compilation.cpp"
-  "Client_autogen/timestamp"
 )
 
 # Per-language clean rules from dependency scanning.
