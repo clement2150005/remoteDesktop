@@ -1,0 +1,4 @@
+/home/clement/repojump/clement2150005/remoteDesktop/server/build/CMakeFiles/Server.dir
+/home/clement/repojump/clement2150005/remoteDesktop/server/build/CMakeFiles/edit_cache.dir
+/home/clement/repojump/clement2150005/remoteDesktop/server/build/CMakeFiles/rebuild_cache.dir
+/home/clement/repojump/clement2150005/remoteDesktop/server/build/CMakeFiles/Server_autogen.dir

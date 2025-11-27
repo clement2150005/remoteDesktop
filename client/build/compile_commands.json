@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/clement/repojump/clement2150005/remoteDesktop/client/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/clement/repojump/clement2150005/remoteDesktop/client/build/Client_autogen/include -I/home/clement/repojump/clement2150005/remoteDesktop/client/include -I/home/clement/repojump/clement2150005/remoteDesktop/client/src -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -Wall -Wextra -fPIC -std=gnu++20 -o CMakeFiles/Client.dir/Client_autogen/mocs_compilation.cpp.o -c /home/clement/repojump/clement2150005/remoteDesktop/client/build/Client_autogen/mocs_compilation.cpp",
+  "file": "/home/clement/repojump/clement2150005/remoteDesktop/client/build/Client_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/clement/repojump/clement2150005/remoteDesktop/client/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/clement/repojump/clement2150005/remoteDesktop/client/build/Client_autogen/include -I/home/clement/repojump/clement2150005/remoteDesktop/client/include -I/home/clement/repojump/clement2150005/remoteDesktop/client/src -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -Wall -Wextra -fPIC -std=gnu++20 -o CMakeFiles/Client.dir/src/HttpClient/HttpClient.cpp.o -c /home/clement/repojump/clement2150005/remoteDesktop/client/src/HttpClient/HttpClient.cpp",
+  "file": "/home/clement/repojump/clement2150005/remoteDesktop/client/src/HttpClient/HttpClient.cpp"
+},
+{
+  "directory": "/home/clement/repojump/clement2150005/remoteDesktop/client/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/clement/repojump/clement2150005/remoteDesktop/client/build/Client_autogen/include -I/home/clement/repojump/clement2150005/remoteDesktop/client/include -I/home/clement/repojump/clement2150005/remoteDesktop/client/src -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -Wall -Wextra -fPIC -std=gnu++20 -o CMakeFiles/Client.dir/src/main.cpp.o -c /home/clement/repojump/clement2150005/remoteDesktop/client/src/main.cpp",
+  "file": "/home/clement/repojump/clement2150005/remoteDesktop/client/src/main.cpp"
+}
+]
