@@ -1,4 +1,4 @@
-# Install script for directory: /project/server
+# Install script for directory: /home/clementLinux/repojump/clement2150005/remoteDesktop/server
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/project/server/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/clementLinux/repojump/clement2150005/remoteDesktop/server/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
