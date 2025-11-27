@@ -1,32 +1,27 @@
 [
 {
-  "directory": "/home/clementLinux/repojump/clement2150005/remoteDesktop/server/build",
-  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/clementLinux/repojump/clement2150005/remoteDesktop/server/build/Server_autogen/include -I/home/clementLinux/repojump/clement2150005/remoteDesktop/server/include -I/home/clementLinux/repojump/clement2150005/remoteDesktop/server/src -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -std=gnu++20 -Wall -Wextra -fPIC -o CMakeFiles/Server.dir/Server_autogen/mocs_compilation.cpp.o -c /home/clementLinux/repojump/clement2150005/remoteDesktop/server/build/Server_autogen/mocs_compilation.cpp",
-  "file": "/home/clementLinux/repojump/clement2150005/remoteDesktop/server/build/Server_autogen/mocs_compilation.cpp",
-  "output": "CMakeFiles/Server.dir/Server_autogen/mocs_compilation.cpp.o"
+  "directory": "/project/server/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/project/server/build/Server_autogen/include -I/project/server/include -I/project/server/src -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -Wall -Wextra -fPIC -std=gnu++20 -o CMakeFiles/Server.dir/Server_autogen/mocs_compilation.cpp.o -c /project/server/build/Server_autogen/mocs_compilation.cpp",
+  "file": "/project/server/build/Server_autogen/mocs_compilation.cpp"
 },
 {
-  "directory": "/home/clementLinux/repojump/clement2150005/remoteDesktop/server/build",
-  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/clementLinux/repojump/clement2150005/remoteDesktop/server/build/Server_autogen/include -I/home/clementLinux/repojump/clement2150005/remoteDesktop/server/include -I/home/clementLinux/repojump/clement2150005/remoteDesktop/server/src -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -std=gnu++20 -Wall -Wextra -fPIC -o CMakeFiles/Server.dir/src/Config/ConfigFileParser.cpp.o -c /home/clementLinux/repojump/clement2150005/remoteDesktop/server/src/Config/ConfigFileParser.cpp",
-  "file": "/home/clementLinux/repojump/clement2150005/remoteDesktop/server/src/Config/ConfigFileParser.cpp",
-  "output": "CMakeFiles/Server.dir/src/Config/ConfigFileParser.cpp.o"
+  "directory": "/project/server/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/project/server/build/Server_autogen/include -I/project/server/include -I/project/server/src -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -Wall -Wextra -fPIC -std=gnu++20 -o CMakeFiles/Server.dir/src/Config/ConfigFileParser.cpp.o -c /project/server/src/Config/ConfigFileParser.cpp",
+  "file": "/project/server/src/Config/ConfigFileParser.cpp"
 },
 {
-  "directory": "/home/clementLinux/repojump/clement2150005/remoteDesktop/server/build",
-  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/clementLinux/repojump/clement2150005/remoteDesktop/server/build/Server_autogen/include -I/home/clementLinux/repojump/clement2150005/remoteDesktop/server/include -I/home/clementLinux/repojump/clement2150005/remoteDesktop/server/src -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -std=gnu++20 -Wall -Wextra -fPIC -o CMakeFiles/Server.dir/src/Network/Network.cpp.o -c /home/clementLinux/repojump/clement2150005/remoteDesktop/server/src/Network/Network.cpp",
-  "file": "/home/clementLinux/repojump/clement2150005/remoteDesktop/server/src/Network/Network.cpp",
-  "output": "CMakeFiles/Server.dir/src/Network/Network.cpp.o"
+  "directory": "/project/server/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/project/server/build/Server_autogen/include -I/project/server/include -I/project/server/src -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -Wall -Wextra -fPIC -std=gnu++20 -o CMakeFiles/Server.dir/src/Network/Network.cpp.o -c /project/server/src/Network/Network.cpp",
+  "file": "/project/server/src/Network/Network.cpp"
 },
 {
-  "directory": "/home/clementLinux/repojump/clement2150005/remoteDesktop/server/build",
-  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/clementLinux/repojump/clement2150005/remoteDesktop/server/build/Server_autogen/include -I/home/clementLinux/repojump/clement2150005/remoteDesktop/server/include -I/home/clementLinux/repojump/clement2150005/remoteDesktop/server/src -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -std=gnu++20 -Wall -Wextra -fPIC -o CMakeFiles/Server.dir/src/Screenshot/Screenshot.cpp.o -c /home/clementLinux/repojump/clement2150005/remoteDesktop/server/src/Screenshot/Screenshot.cpp",
-  "file": "/home/clementLinux/repojump/clement2150005/remoteDesktop/server/src/Screenshot/Screenshot.cpp",
-  "output": "CMakeFiles/Server.dir/src/Screenshot/Screenshot.cpp.o"
+  "directory": "/project/server/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/project/server/build/Server_autogen/include -I/project/server/include -I/project/server/src -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -Wall -Wextra -fPIC -std=gnu++20 -o CMakeFiles/Server.dir/src/Screenshot/Screenshot.cpp.o -c /project/server/src/Screenshot/Screenshot.cpp",
+  "file": "/project/server/src/Screenshot/Screenshot.cpp"
 },
 {
-  "directory": "/home/clementLinux/repojump/clement2150005/remoteDesktop/server/build",
-  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/clementLinux/repojump/clement2150005/remoteDesktop/server/build/Server_autogen/include -I/home/clementLinux/repojump/clement2150005/remoteDesktop/server/include -I/home/clementLinux/repojump/clement2150005/remoteDesktop/server/src -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -std=gnu++20 -Wall -Wextra -fPIC -o CMakeFiles/Server.dir/src/main.cpp.o -c /home/clementLinux/repojump/clement2150005/remoteDesktop/server/src/main.cpp",
-  "file": "/home/clementLinux/repojump/clement2150005/remoteDesktop/server/src/main.cpp",
-  "output": "CMakeFiles/Server.dir/src/main.cpp.o"
+  "directory": "/project/server/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/project/server/build/Server_autogen/include -I/project/server/include -I/project/server/src -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -Wall -Wextra -fPIC -std=gnu++20 -o CMakeFiles/Server.dir/src/main.cpp.o -c /project/server/src/main.cpp",
+  "file": "/project/server/src/main.cpp"
 }
 ]

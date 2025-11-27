@@ -1,0 +1,4 @@
+/project/build/CMakeFiles/Client.dir
+/project/build/CMakeFiles/edit_cache.dir
+/project/build/CMakeFiles/rebuild_cache.dir
+/project/build/CMakeFiles/Client_autogen.dir
