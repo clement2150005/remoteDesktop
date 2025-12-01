@@ -1,7 +1,7 @@
 /****************************************************************************
 ** Meta object code from reading C++ file 'MjpegClient.hpp'
 **
-** Created by: The Qt Meta Object Compiler version 68 (Qt 6.4.2)
+** Created by: The Qt Meta Object Compiler version 68 (Qt 6.2.4)
 **
 ** WARNING! All changes made in this file will be lost!
 *****************************************************************************/
@@ -10,39 +10,35 @@
 #include "../../../src/MjpegClient/MjpegClient.hpp"
 #include <QtGui/qtextcursor.h>
 #include <QtNetwork/QSslError>
+#include <QtCore/qbytearray.h>
 #include <QtCore/qmetatype.h>
 #if !defined(Q_MOC_OUTPUT_REVISION)
 #error "The header file 'MjpegClient.hpp' doesn't include <QObject>."
 #elif Q_MOC_OUTPUT_REVISION != 68
-#error "This file was generated using the moc from 6.4.2. It"
+#error "This file was generated using the moc from 6.2.4. It"
 #error "cannot be used with the include files from this version of Qt."
 #error "(The moc has changed too much.)"
-#endif
-
-#ifndef Q_CONSTINIT
-#define Q_CONSTINIT
 #endif
 
 QT_BEGIN_MOC_NAMESPACE
 QT_WARNING_PUSH
 QT_WARNING_DISABLE_DEPRECATED
-namespace {
 struct qt_meta_stringdata_MjpegClient_t {
-    uint offsetsAndSizes[2];
+    const uint offsetsAndSize[2];
     char stringdata0[12];
 };
 #define QT_MOC_LITERAL(ofs, len) \
-    uint(sizeof(qt_meta_stringdata_MjpegClient_t::offsetsAndSizes) + ofs), len 
-Q_CONSTINIT static const qt_meta_stringdata_MjpegClient_t qt_meta_stringdata_MjpegClient = {
+    uint(offsetof(qt_meta_stringdata_MjpegClient_t, stringdata0) + ofs), len 
+static const qt_meta_stringdata_MjpegClient_t qt_meta_stringdata_MjpegClient = {
     {
-        QT_MOC_LITERAL(0, 11)   // "MjpegClient"
+QT_MOC_LITERAL(0, 11) // "MjpegClient"
+
     },
     "MjpegClient"
 };
 #undef QT_MOC_LITERAL
-} // unnamed namespace
 
-Q_CONSTINIT static const uint qt_meta_data_MjpegClient[] = {
+static const uint qt_meta_data_MjpegClient[] = {
 
  // content:
       10,       // revision
@@ -58,19 +54,6 @@ Q_CONSTINIT static const uint qt_meta_data_MjpegClient[] = {
        0        // eod
 };
 
-Q_CONSTINIT const QMetaObject MjpegClient::staticMetaObject = { {
-    QMetaObject::SuperData::link<QWidget::staticMetaObject>(),
-    qt_meta_stringdata_MjpegClient.offsetsAndSizes,
-    qt_meta_data_MjpegClient,
-    qt_static_metacall,
-    nullptr,
-    qt_incomplete_metaTypeArray<qt_meta_stringdata_MjpegClient_t,
-        // Q_OBJECT / Q_GADGET
-        QtPrivate::TypeAndForceComplete<MjpegClient, std::true_type>
-    >,
-    nullptr
-} };
-
 void MjpegClient::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)
 {
     (void)_o;
@@ -78,6 +61,22 @@ void MjpegClient::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id,
     (void)_c;
     (void)_a;
 }
+
+const QMetaObject MjpegClient::staticMetaObject = { {
+    QMetaObject::SuperData::link<QWidget::staticMetaObject>(),
+    qt_meta_stringdata_MjpegClient.offsetsAndSize,
+    qt_meta_data_MjpegClient,
+    qt_static_metacall,
+    nullptr,
+qt_incomplete_metaTypeArray<qt_meta_stringdata_MjpegClient_t
+, QtPrivate::TypeAndForceComplete<MjpegClient, std::true_type>
+
+
+
+>,
+    nullptr
+} };
+
 
 const QMetaObject *MjpegClient::metaObject() const
 {

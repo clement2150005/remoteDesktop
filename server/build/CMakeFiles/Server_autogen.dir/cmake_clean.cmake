@@ -1,7 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Server_autogen"
   "Server_autogen/mocs_compilation.cpp"
-  "Server_autogen/timestamp"
 )
 
 # Per-language clean rules from dependency scanning.
