@@ -1195,4 +1195,6 @@ CMakeFiles/Client.dir/src/MjpegClient/MjpegClient.cpp.o: \
   /usr/local/opt/qt/lib/QtGui.framework/Headers/QPainter \
   /usr/local/opt/qt/lib/QtGui.framework/Headers/qpainter.h \
   /usr/local/include/QtGui/qtextoption.h /usr/local/include/QtGui/qpen.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/iostream
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/iostream \
+  /usr/local/opt/qt/lib/QtCore.framework/Headers/QElapsedTimer \
+  /usr/local/opt/qt/lib/QtCore.framework/Headers/qelapsedtimer.h
