@@ -4,12 +4,14 @@ file(REMOVE_RECURSE
   "Client_autogen"
   "CMakeFiles/Client.dir/Client_autogen/mocs_compilation.cpp.o"
   "CMakeFiles/Client.dir/Client_autogen/mocs_compilation.cpp.o.d"
-  "CMakeFiles/Client.dir/src/HttpClient/HttpClient.cpp.o"
-  "CMakeFiles/Client.dir/src/HttpClient/HttpClient.cpp.o.d"
+  "CMakeFiles/Client.dir/src/MjpegClient/MjpegClient.cpp.o"
+  "CMakeFiles/Client.dir/src/MjpegClient/MjpegClient.cpp.o.d"
   "CMakeFiles/Client.dir/src/main.cpp.o"
   "CMakeFiles/Client.dir/src/main.cpp.o.d"
   "Client"
   "Client.pdb"
+  "Client_autogen/mocs_compilation.cpp"
+  "Client_autogen/timestamp"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -8,13 +8,18 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/clement/repojump/clement2150005/remoteDesktop/client/build/Client_autogen/mocs_compilation.cpp" "CMakeFiles/Client.dir/Client_autogen/mocs_compilation.cpp.o" "gcc" "CMakeFiles/Client.dir/Client_autogen/mocs_compilation.cpp.o.d"
-  "/home/clement/repojump/clement2150005/remoteDesktop/client/src/HttpClient/HttpClient.cpp" "CMakeFiles/Client.dir/src/HttpClient/HttpClient.cpp.o" "gcc" "CMakeFiles/Client.dir/src/HttpClient/HttpClient.cpp.o.d"
-  "/home/clement/repojump/clement2150005/remoteDesktop/client/src/main.cpp" "CMakeFiles/Client.dir/src/main.cpp.o" "gcc" "CMakeFiles/Client.dir/src/main.cpp.o.d"
+  "" "Client_autogen/timestamp" "custom" "Client_autogen/deps"
+  "/Users/clement/repojump/clement2150005/remoteDesktop/client/build/Client_autogen/mocs_compilation.cpp" "CMakeFiles/Client.dir/Client_autogen/mocs_compilation.cpp.o" "gcc" "CMakeFiles/Client.dir/Client_autogen/mocs_compilation.cpp.o.d"
+  "/Users/clement/repojump/clement2150005/remoteDesktop/client/src/MjpegClient/MjpegClient.cpp" "CMakeFiles/Client.dir/src/MjpegClient/MjpegClient.cpp.o" "gcc" "CMakeFiles/Client.dir/src/MjpegClient/MjpegClient.cpp.o.d"
+  "/Users/clement/repojump/clement2150005/remoteDesktop/client/src/main.cpp" "CMakeFiles/Client.dir/src/main.cpp.o" "gcc" "CMakeFiles/Client.dir/src/main.cpp.o.d"
   )
 
-# Targets to which this target links.
-set(CMAKE_TARGET_LINKED_INFO_FILES
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
   )
 
 # Fortran module output directory.

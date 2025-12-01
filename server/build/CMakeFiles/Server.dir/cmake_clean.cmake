@@ -16,6 +16,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Server.dir/src/main.cpp.o.d"
   "Server"
   "Server.pdb"
+  "Server_autogen/mocs_compilation.cpp"
+  "Server_autogen/timestamp"
 )
 
 # Per-language clean rules from dependency scanning.
